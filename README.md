@@ -11,3 +11,14 @@ Movie app built with React, Apollo and GraphQL
 3. GIT 연결
 > git remote add origin https://github.com/simhyun/apollo-2020.git
 ```
+
+# 1.0 Apollo Client (05:49)
+'''
+GraphQL Yoga >>> 서버
+apollo-boost >>> 클라이언트
+'''
+
+# 1.2 GET MOVIE Query (09:15)
+'''
+https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
+'''
